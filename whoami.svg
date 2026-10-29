@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="330" viewBox="0 0 860 330" role="img" aria-label="Xeno Technology — card estilo neofetch">
+  <style>
+    .t { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "DejaVu Sans Mono", monospace; font-size: 13px; }
+    .logo { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "DejaVu Sans Mono", monospace; font-size: 13px; fill: #4ade80; }
+    .k { fill: #60a5fa; font-weight: 700; }
+    .v { fill: #e5e7eb; }
+    .d { fill: #6b7280; }
+    .h { fill: #4ade80; font-weight: 700; }
+  </style>
+  <rect width="860" height="330" rx="12" fill="#0d1117" stroke="#30363d"/>
+  <rect width="860" height="32" rx="12" fill="#161b22"/>
+  <rect y="20" width="860" height="12" fill="#161b22"/>
+  <circle cx="22" cy="16" r="6" fill="#ff5f56"/><circle cx="42" cy="16" r="6" fill="#ffbd2e"/><circle cx="62" cy="16" r="6" fill="#27c93f"/>
+  <text x="430" y="21" text-anchor="middle" class="t d">xeno@technology: ~</text>
+
+  <text class="logo" xml:space="preserve">
+    <tspan x="28" y="80">██╗  ██╗███████╗███╗   ██╗ ██████╗ </tspan>
+    <tspan x="28" y="97">╚██╗██╔╝██╔════╝████╗  ██║██╔═══██╗</tspan>
+    <tspan x="28" y="114"> ╚███╔╝ █████╗  ██╔██╗ ██║██║   ██║</tspan>
+    <tspan x="28" y="131"> ██╔██╗ ██╔══╝  ██║╚██╗██║██║   ██║</tspan>
+    <tspan x="28" y="148">██╔╝ ██╗███████╗██║ ╚████║╚██████╔╝</tspan>
+    <tspan x="28" y="165">╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝ ╚═════╝ </tspan>
+  </text>
+  <text x="28" y="200" class="t d" xml:space="preserve">   software sob medida, do zero ao ar</text>
+
+  <text class="t" xml:space="preserve">
+    <tspan x="360" y="66" class="h">xeno</tspan><tspan class="d">@</tspan><tspan class="h">technology</tspan>
+    <tspan x="360" y="84" class="d">────────────────────────────────────</tspan>
+    <tspan x="360" y="108" class="k">Empresa  </tspan><tspan class="v">Xeno Technology</tspan>
+    <tspan x="360" y="130" class="k">Faz      </tspan><tspan class="v">SaaS, sistemas e integrações</tspan>
+    <tspan x="360" y="152" class="k">Produtos </tspan><tspan class="v">Vira Rotina · CRM hoteleiro</tspan>
+    <tspan x="360" y="174" class="k">Stack    </tspan><tspan class="v">TypeScript · Next.js · NestJS</tspan>
+    <tspan x="360" y="196" class="k">Dados    </tspan><tspan class="v">PostgreSQL · Prisma · Redis</tspan>
+    <tspan x="360" y="218" class="k">IA       </tspan><tspan class="v">visão computacional · Whisper local</tspan>
+    <tspan x="360" y="240" class="k">Infra    </tspan><tspan class="v">Docker · VPS · GitHub Actions</tspan>
+    <tspan x="360" y="262" class="k">Método   </tspan><tspan class="v">spec antes do código · testes · PR</tspan>
+  </text>
+
+  <g transform="translate(360,284)">
+    <rect width="26" height="14" fill="#1f2937"/><rect x="26" width="26" height="14" fill="#ef4444"/>
+    <rect x="52" width="26" height="14" fill="#4ade80"/><rect x="78" width="26" height="14" fill="#facc15"/>
+    <rect x="104" width="26" height="14" fill="#60a5fa"/><rect x="130" width="26" height="14" fill="#c084fc"/>
+    <rect x="156" width="26" height="14" fill="#22d3ee"/><rect x="182" width="26" height="14" fill="#e5e7eb"/>
+  </g>
+</svg>
